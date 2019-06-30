@@ -1,0 +1,2 @@
+# Bidbee
+E-Commerce platform
